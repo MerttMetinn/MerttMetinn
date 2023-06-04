@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Metin</h1>
 <h3 align="center">A computer engineering 1st class student from Turkey</h3>
 
-- 🔭 I’m currently working on [HackerRank - Mathematics Problems](https://github.com/MerttMetinn/My_C_Projects/tree/main/HackerRank%20Solutions/Mathematics)
+- 🔭 I’m currently working on [HackerRank Problems](https://github.com/MerttMetinn/HackerRankSolutions)
 
 - 🌱 I’m currently learning **Jonas Schmedtmann - The Complete JavaScript Course**
 
