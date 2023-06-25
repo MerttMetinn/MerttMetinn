@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HackerRank Problems](https://github.com/MerttMetinn/HackerRankSolutions)
 
-- 🌱 I’m currently learning **Jonas Schmedtmann - The Complete JavaScript Course**
+- 🌱 I’m currently learning [Version Controls: Git and GitHub](https://www.btkakademi.gov.tr/portal/course/versiyon-kontrolleri-git-ve-github-19439)
 
 - 👨‍💻 All of my projects are available at [My Github Repositories](https://github.com/MerttMetinn?tab=repositories)
 
