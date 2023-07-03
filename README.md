@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **mertmetin39@gmail.com**
 
-<br>  
-
-<br/>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mertmetinn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mertmetinn/" height="30" width="40" /></a>
@@ -31,4 +27,7 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merttmetinn&" alt="merttmetinn" /></p>
 
+![gitartwork](gitartwork.svg)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=merttmetinn&label=Profile%20views&color=0e75b6&style=flat" alt="merttmetinn" /> </p>
+
