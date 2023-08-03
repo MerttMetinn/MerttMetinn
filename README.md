@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HackerRank Problems](https://github.com/MerttMetinn/HackerRankSolutions)
 
-- 🌱 I’m currently learning [Veri Bilimi İçin Python ve Tensorflow](https://www.btkakademi.gov.tr/portal/course/veri-bilimi-icin-python-ve-tensorflow-11705)
+- 🌱 I’m currently learning *Machine Learning Specialization from Andrew Ng*
 
 - 👨‍💻 All of my projects are available at [My Github Repositories](https://github.com/MerttMetinn?tab=repositories)
 
