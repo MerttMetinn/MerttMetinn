@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HackerRank Problems](https://github.com/MerttMetinn/HackerRankSolutions)
 
-- 🌱 I’m currently learning *Machine Learning Specialization from Andrew Ng*
+- 🌱 I’m currently focusing *Andrew Ng's Machine Learning Specialization Course from Coursera*
 
 - 👨‍💻 All of my projects are available at [My Github Repositories](https://github.com/MerttMetinn?tab=repositories)
 
