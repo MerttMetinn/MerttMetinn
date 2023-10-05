@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Metin <img src="https://uxwing.com/wp-content/themes/uxwing/download/animals-and-birds/owl-icon.png" alt="alt text" width="35" height="35"></h1>
-<h3 align="center">A computer engineering 1st class student from Turkey</h3>
+<h3 align="center">A computer engineering 2nd class student from Turkey</h3>
 
 - 🔭 I’m currently working on [HackerRank Problems](https://github.com/MerttMetinn/HackerRankSolutions)
 
