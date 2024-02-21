@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Metin <img src="https://uxwing.com/wp-content/themes/uxwing/download/animals-and-birds/owl-icon.png" alt="alt text" width="35" height="35"></h1>
 <h3 align="center">A computer engineering 2nd class student from Turkey</h3>
 
-- 🔭 I am currently working on *[Data Structures](https://github.com/MerttMetinn/Data-Structres)* repository and Java Swing Projects
+- 🔭 I am currently working on ReactJS.
 
 - 🌱 I’m currently focusing *[IBM Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-frontend-developer)*
 
