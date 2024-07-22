@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Metin <img src="https://uxwing.com/wp-content/themes/uxwing/download/animals-and-birds/owl-icon.png" alt="alt text" width="35" height="35"></h1>
-<h3 align="center">A computer engineering 2nd class student from Turkey</h3>
+<h3 align="center">A computer engineering 3rd class student from Turkey</h3>
 
 - 🔭 I am currently working on Web API and MVC projects with ASP.NET Core.
 
@@ -13,6 +13,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mertmetinn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mertmetinn/" height="30" width="40" /></a>
 </p>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
       <a href="https://angular.io" target="_blank" rel="noreferrer">
